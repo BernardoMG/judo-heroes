@@ -1,7 +1,6 @@
 # judo-heroes
 
-My first application using React. 
-
+React and Node application.
 
 #### How to run
 
